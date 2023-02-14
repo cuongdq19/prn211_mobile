@@ -37,6 +37,13 @@
             {
               "client_id": "728783300696-4dffmcg4em0gukepo7bk2h9rd2tbtl78.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "728783300696-7j22dgdt67ugatlahts7cp1tj5rq167o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.haloSmoothie"
+              }
             }
           ]
         }
@@ -51,11 +58,19 @@
       },
       "oauth_client": [
         {
-          "client_id": "728783300696-rea8i1dlq023nejdv5r1hs7jgik091pk.apps.googleusercontent.com",
+          "client_id": "728783300696-0ecrku4qh0fl3il08limao30emqrr4n0.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.halo_smoothie",
             "certificate_hash": "f3cd2686ce7efbe7010a701198452d01940004bb"
+          }
+        },
+        {
+          "client_id": "728783300696-coc04qsq30b1vrps8hsaa693vplhvhig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.halo_smoothie",
+            "certificate_hash": "8b6c32480eef6d60765ce804b12d21471bb5a633"
           }
         },
         {
@@ -74,6 +89,13 @@
             {
               "client_id": "728783300696-4dffmcg4em0gukepo7bk2h9rd2tbtl78.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "728783300696-7j22dgdt67ugatlahts7cp1tj5rq167o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.haloSmoothie"
+              }
             }
           ]
         }
